@@ -1,8 +1,3 @@
-## Hello there 👋
+## Hey there!
 
-### Cytometry in R - Starter Questions 
-
-I'm hoping to build familiarity with cytometry readouts ahead of running suspension mass cytometry experiments on patient-derived pancreatic cancer organoids. 
-
--  Favourite PDAC biomarker: YAP1
--  Previous coding experience: Troubleshooting Python and R scripts with mixed results   
+Here you'll find scripts I've written to analyze single-cell RNA-seq and CyTOF data, primarily derived from pancreatic ductal adenocarcinoma (PDAC) patient tissue and organoid data. 
